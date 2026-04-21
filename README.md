@@ -4,4 +4,6 @@
 4_5_Haftalar.rar: Bootstrap' lı üyelik sistemi
 6-7_Haftalar.rar: Kişisel Proje (Tamamı)
 8.Hafta: Kayıt İşlemleri (Guncelleme ve Silme)
-9.Hafta: Yönetim Paneli (Veri tabanı işlemleri, Panelgiris, panel, navbar vs.)
+9.10.Hafta: Yönetim Paneli (Veri tabanı işlemleri, Tüm Proje vs.)
+11.Hafta: eTicaret Sitesi (Veri Tabanı ve Sğet İşlemleri)
+
